@@ -1,0 +1,23 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: a295b1ed-a0ff-4348-9aac-e951bdb0cc6a
+  title: 'New Standards for Scientific Publishing'
+  subtitle: 'Learnings from ZIP to Zarr: The Evolution of Scientific Data Formats'
+  description: |
+    In the world of scientific publishing, new standards are often met with a groan, followed by someone sharing that xkcd about "there being 14 competing standards… now 15." It's funny because it's true — **_sometimes_**. The evolution from ZIP to HDF5 to Zarr tells that story perfectly.
+  date: 2025-11-09
+  authors:
+    - rowan
+  abbreviations:
+    DOI: Digital Object Identifier
+    JATS: Journal Article Tag Suite
+    MECA: Manuscript Exchange Common Approach
+    ZIP: Zip Archive
+    HDF5: Hierarchical Data Format 5
+    JSON: JavaScript Object Notation
+    JSON-LD: JSON Linked Data
+    RDF: Resource Description Framework
+  references:
+    cs: https://articles.continuousfoundation.org/articles/defining-continuous-science
