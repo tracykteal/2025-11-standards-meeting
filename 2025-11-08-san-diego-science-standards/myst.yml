@@ -1,0 +1,27 @@
+version: 1
+# extends:
+#   - ../csf.yml
+project:
+  id: ccc3c832-1120-4740-ab58-e435eb72dce4
+  title: From Tools to Adoption
+  subtitle: 'A Path to Modular and Interactive Scientific Publishing'
+  description: |
+    TODO
+  date: 2025-11-09
+  authors:
+    - rowan
+    - tracy
+  abbreviations:
+    DOI: Digital Object Identifier
+    JATS: Journal Article Tag Suite
+    MECA: Manuscript Exchange Common Approach
+    ZIP: Zip Archive
+    HDF5: Hierarchical Data Format 5
+    JSON: JavaScript Object Notation
+    JSON-LD: JSON Linked Data
+    RDF: Resource Description Framework
+    CC: Creative Commons
+  references:
+    cs: https://articles.continuousfoundation.org/articles/defining-continuous-science
+site:
+  template: article-theme
