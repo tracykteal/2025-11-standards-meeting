@@ -4,9 +4,9 @@ title: 'From Tools to Adoption: A Path to Modular and Interactive Scientific Pub
 
 ## Workshop Overview
 
-In San Diego November 6-8th, a group of 25 open-science leaders gathered for an in-person implementation sprint to unify modular scientific publishing tools around a shared reference implementation. The working meeting, hosted by [openRxiv](https://openrxiv.org) and [Continuous Science Foundation](https://continuousfoundation.org) convened developers of leading modular publishing tools to create a working, federated reference architecture using real bioRxiv content, connected authoring tools, and worked towards shared standards. Our goal was to resolve technical gaps, demonstrate live interoperability, and lay the foundation for modular, machine-readable research publishing. The sprint is preceded by a virtual kickoff and includes discussions and activities at CZI's Open Science Meeting and JupyterCon. This meeting was designed to unlock adoption by showing, not telling, how modular publishing can work in practice today.
+In San Diego November 6-8th, 2025 a group of 25 open-science leaders gathered for an in-person implementation workshop to unify modular scientific publishing tools around shared reference implementations. The working meeting, hosted by [openRxiv](https://openrxiv.org) and [Continuous Science Foundation](https://continuousfoundation.org) convened developers of leading modular publishing tools and licensing to create a working, federated reference architecture using real bioRxiv content, connected authoring tools, and worked towards shared standards. Our goal was to resolve technical gaps, demonstrate live interoperability, and lay the foundation for modular, machine-readable research publishing. The workshop was preceded by a virtual kickoff and included discussions and activities at CZI's Open Science Meeting and JupyterCon. This meeting was designed to unlock adoption by showing, not telling, how modular publishing can work in practice today.
 
-Our approach for the workshop is to convene a small group of 25 leaders and tool makers in open science to align on a collective vision/demonstrations and implementations to drive meaningful change. Given the small size and implementation focus, this meeting is by invitation only.
+Our approach for the workshop was to convene a small group of 25 leaders and tool makers in open science to align on a collective vision/demonstrations and implementations to drive meaningful change. Given the small size and implementation focus, this meeting was by invitation only.
 
 This meeting is funded by the Meeting Fund of The Navigation Fund Open Science Program. [10.71707/gn91-ka32](https://commons.datacite.org/doi.org/10.71707/gn91-ka32).
 
@@ -31,15 +31,14 @@ Two and a half day, in person implementation meeting. This group of developers w
 12-1pm: Lunch
 1pm - 4:30pm: Small group discussions or beginning of exploring code together.
 4:30-5pm: Lightning demos of what people are working on.
-5-7pm: Rest and Dinner.
-7-9pm: Informal hacker time. Time to work on some things together, or continue discussions or exploration.
+5-9pm: Rest and Dinner.
 
 **Day 2 — Nov 7**
 9am-10am: Recap from the previous day. What came up that we need to discuss or resolve?
-10am-11:30am: Have discussion or work based on areas of friction, frustration, tension or disagreement that we observed.
+10am-11:30am: Have discussion or work based on areas of interest, friction, or disagreement that we observed.
 11:30-12:00pm Lightning demos of what people are working on.
-12-3: Lunch and hike or do other outdoor thing together
-3-5pm: Break into areas of agreement where we can move forward and areas of disagreement where we’ll still need to discuss, code or explore.
+12-1: Lunch
+1-5pm: Continue work and discussions. Opportunity to add new ideas or switch projects.
 5-7pm: Rest and Dinner.
 7-9pm: Informal hacker time and demos.
 
